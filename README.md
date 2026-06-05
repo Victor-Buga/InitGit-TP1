@@ -1,2 +1,2 @@
 # InitGit-TP1
-Minh-Tan, Adrien, Victor, Lokman 
+Minh-Tam, Adrien, Victor, Lokman 
