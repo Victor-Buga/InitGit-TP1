@@ -1,2 +1,5 @@
 # InitGit-TP1
-Minh-Tam, Adrien, Victor, Lokman 
+Victor      = Owner
+Minh-Tam    = Dev 1
+Lokman      = Dev 2
+Adrien      = Mainteneur
